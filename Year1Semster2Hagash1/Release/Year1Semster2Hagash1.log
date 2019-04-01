@@ -1,0 +1,11 @@
+﻿  Main.c
+C:\Users\tskrb\source\repos\Year1Semster2Hagash1\Year1Semster2Hagash1\Main.c(46): warning C4013: 'Q4' undefined; assuming extern returning int
+C:\Users\tskrb\source\repos\Year1Semster2Hagash1\Year1Semster2Hagash1\Main.c(51): warning C4013: 'Q5' undefined; assuming extern returning int
+C:\Users\tskrb\source\repos\Year1Semster2Hagash1\Year1Semster2Hagash1\Main.c(61): warning C4013: 'Q7' undefined; assuming extern returning int
+C:\Users\tskrb\source\repos\Year1Semster2Hagash1\Year1Semster2Hagash1\Main.c(66): warning C4013: 'Q8' undefined; assuming extern returning int
+  Generating code
+  2 of 20 functions (10.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Year1Semster2Hagash1.vcxproj -> C:\Users\tskrb\source\repos\Year1Semster2Hagash1\Release\Year1Semster2Hagash1.exe
