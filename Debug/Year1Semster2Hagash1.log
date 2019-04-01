@@ -1,7 +1,0 @@
-﻿  Main.c
-C:\Users\tskrb\source\repos\Year1Semster2Hagash1\Year1Semster2Hagash1\Main.c(46): warning C4013: 'Q4' undefined; assuming extern returning int
-C:\Users\tskrb\source\repos\Year1Semster2Hagash1\Year1Semster2Hagash1\Main.c(51): warning C4013: 'Q5' undefined; assuming extern returning int
-C:\Users\tskrb\source\repos\Year1Semster2Hagash1\Year1Semster2Hagash1\Main.c(61): warning C4013: 'Q7' undefined; assuming extern returning int
-C:\Users\tskrb\source\repos\Year1Semster2Hagash1\Year1Semster2Hagash1\Main.c(66): warning C4013: 'Q8' undefined; assuming extern returning int
-C:\Users\tskrb\source\repos\Year1Semster2Hagash1\Year1Semster2Hagash1\Main.c(14): warning C4047: 'initializing': 'char' differs in levels of indirection from 'char [2]'
-  Year1Semster2Hagash1.vcxproj -> C:\Users\tskrb\source\repos\Year1Semster2Hagash1\Debug\Year1Semster2Hagash1.exe
